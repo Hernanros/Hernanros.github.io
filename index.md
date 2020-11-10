@@ -1,4 +1,4 @@
-## Hernan Rosenblum work portfolio
+## Hernan Rosenblum work portfolio<br>
 Hi, I'm Hernan <br>
 I will use this repository to share some of the projects that I'm working on to practice and imrove my skills as a data scientist. <br>
 I started to explore the field of data science, some 2 years ago during my M.A studies.<br>
