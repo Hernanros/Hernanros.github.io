@@ -1,15 +1,10 @@
 title: Hernan Rosenblum # your name (or website title) here
 logo: "/images/71536031_10218636183790056_8932989139058425856_o.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>I'm Hernan, I am a Data Scientist and an analyst. I have a masters degree in Social Psychology from Ben Gurion University, and I've graduated from Ydata year long applied science program.<br>
-  I will use this repository to share some of the projects that I'm working on to practice and imrove my skills as a data scientist. <br>
-  I started to explore the field of data science, some 2 years ago during my M.A studies.<br>
-  Since then I've learned how to write queries in SQL like a pro, and how to use python packages for all sorts of data science usages, how to build suffisticated deep models and how to work on collaborative data projects.<br>
-  I have a strong understanding of quantitative research methods and a passion for structural problem-solving.<br>
-  If you have a project idea, a collaboration offer, or if you would like to comment on some of my work, you can contact me at LinkedIn or mail.<br>
-  Second description 
-  <br><br>
+  <br>Data Scientist|Data analyst
+  M.A in Social Psychology<br>
+  Data analysis, Machine learning, deep learning NLP<br>
+  <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
